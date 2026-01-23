@@ -1,0 +1,21 @@
+name: habits-1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - papermill
+  - nbconvert
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - joblib
+  - nilearn
+  - nibabel
+  - statsmodels
+  - pip
+  - pip:
+    - -r file:requirements.txt
