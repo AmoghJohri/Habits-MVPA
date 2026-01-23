@@ -1,0 +1,16 @@
+jupyter
+papermill
+nbconvert
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+pyyaml
+
+# Neuroimaging / plotting
+nilearn
+nibabel
+joblib
