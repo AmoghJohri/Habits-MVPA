@@ -26,7 +26,7 @@ trial files.
     ```bash
     conda env create -f environment.yml
     conda activate habits-1
-    pip install -r requirements.txt  # if you prefer pip-only
+    pip install -r requirements.txt
     ```
 
 2. Run all notebooks and generate executed notebooks and figures:
